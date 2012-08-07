@@ -1,0 +1,22 @@
+.limit_bio_description{
+	width:100%;
+	height:60px;
+	border:2px solid #ccc;
+	padding:3px;
+	color:#555;
+	}
+form .counter{
+	font-size:17px;
+	font-weight:bold;
+	color:#ccc;
+	display:block;
+	width:100%;
+	text-align:right;
+	}
+/*form .warning{color:#600;}*/
+form .exceeded{color:#e00;}
+
+#bio_container{
+	width:490px;
+}
+
